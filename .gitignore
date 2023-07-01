@@ -1,0 +1,5 @@
+# Binaries
+bin
+
+# User Visual Studio configuration
+*.vcxproj.user
